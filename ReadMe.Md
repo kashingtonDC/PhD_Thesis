@@ -1,4 +1,4 @@
-# PhD_Thesis
+# PhD Thesis
 
 This repository contains the codes and data accompanying the PhD Thesis titled "Advancing the use of Remote Sensing Data and Models to Understand Hydrologic Processes in California" 
 
